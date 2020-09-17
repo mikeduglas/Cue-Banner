@@ -4,11 +4,17 @@ Edit controls (ENTRY, TEXT, COMBO, SPIN) can be extended to have a 'cue banner' 
 
 ### Usage in hand-coded project.
 - Include cuebanner.inc file:
+```
   INCLUDE('cuebanner.inc'), ONCE
+```
 - Declare an instance of TCueBannerMgr class:
+```
 cueMgr TCueBannerMgr
+```
 - After OPEN(Window) add edit control to cue manager, passing control label and cue banner text:
+```
   cueMgr.AddControl(?ENTRY1, 'Enter your name.')
+```
 
 That's all.    
 
@@ -26,7 +32,7 @@ The demo can be downloaded [here](https://www.dropbox.com/s/tzc13zxhle0qxzc/CueB
 ### Requirements
 - CW6 and newer.
 - ABC and Clarion template chain.
-- Windows Vista and newer (I haven't tested on XP or Win2000).
+- Windows Vista and newer (I haven't tested it yet on XP or Win2000).
 - No extra libraries.
 
 ### Price

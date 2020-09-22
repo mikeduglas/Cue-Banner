@@ -2,7 +2,7 @@
 Edit controls (ENTRY, TEXT, COMBO, SPIN) can be extended to have a 'cue banner'  (that greyed-out placeholder or explanatory text often seen in text fields).
 ![Cue banner](https://github.com/mikeduglas/Cue-Banner/blob/master/cuebanner_demo.png?raw=true)  
 
-** Cue banner supports Unicode. **
+**Cue banner supports Unicode.**
 
 ### Usage in hand-coded project.
 - Include cuebanner.inc file:

@@ -37,9 +37,10 @@ The demo can be downloaded [here](https://www.dropbox.com/s/tzc13zxhle0qxzc/CueB
 - Windows Vista and newer (I haven't tested it yet on XP or Win2000).
 - No extra libraries.
 
-### Price
-$150
-
 ### Contacts
 mikeduglas@yandex.ru  
 mikeduglas66@gmail.com  
+
+
+
+[But now](https://www.clarionshop.com/checkout.cfm?pid=1656&q=1&)

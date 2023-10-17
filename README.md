@@ -43,4 +43,4 @@ mikeduglas66@gmail.com
 
 
 
-[But now](https://www.clarionshop.com/checkout.cfm?pid=1656&q=1&)
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1692&q=1)

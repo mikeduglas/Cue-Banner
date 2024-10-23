@@ -29,7 +29,7 @@ That's all.
 That's all.  
 
 ### Demo program
-The demo can be downloaded [here](https://www.dropbox.com/s/tzc13zxhle0qxzc/CueBannerDemo.zip?dl=0).
+The demo can be downloaded [here](https://www.dropbox.com/scl/fi/zclkscvmls5caysfe6ko0/CueBannerDemo.zip?rlkey=2dk9v4r3i1k8utg3hy41106ix&st=ndmoeijk&dl=0).
 
 ### Requirements
 - CW6 and newer.
